@@ -2,6 +2,9 @@
 ## CRUD basico
 En esta tarea se hace un crud basico donde se va a ingresar un nombre a traves de terminal, el uso de ese simple programa integrador es simple, por lo que no es necesario documentar esa parte.
 
+### Links y nombres
+En el main se podran cambiar los links de base de datos y archivo si asi lo desea
+
 ### Archivo generado
 Se encuentra en la propia carpeta / del repositorio local que ha de clonar
 
@@ -23,6 +26,7 @@ Solo crea el txt con el contenido de la tabla usuario
 
 ### Base de datos
 La base de datos usada es mariadb server version 11.5.2-MariaDB Arch Linux; disponible en AUR actualizada
+El codigo se encuentra en el archivo db.sql(./db.sql)
 
 ### JDBC
 El JDBC solo fue referenciado como dependencia en el pom.xml de MAVEN, no fue necesario descargar absolutamente nada
