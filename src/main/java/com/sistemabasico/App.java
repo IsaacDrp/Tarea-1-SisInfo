@@ -7,7 +7,7 @@ public class App
     {
         //Metricas a cambiar para cada caso especial...
         Db database = new Db("jdbc:mariadb://localhost:3306/sistemita","root", "isaac");
-        String path = "Nombre del archivo generado";
+        String path = "Nombre del archivo generado.txt";
         String name;
         Scanner sc = new Scanner(System.in);
 

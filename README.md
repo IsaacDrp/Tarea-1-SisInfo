@@ -34,3 +34,24 @@ El JDBC solo fue referenciado como dependencia en el pom.xml de MAVEN, no fue ne
 
 ### JDK
 Este proyecto de MAVEN usa el java 17
+
+## Test de como jala
+
+### INGRESO 1
+[1](images/1.png)
+
+### SALIDA 1
+[2](images/2.png)
+
+### INGRESO 2 Y SALIDA 2
+[3](images/3.png)
+
+### ARCHIVO GENERADO
+[4](images/4.png)
+
+(c) ISAAC ABRAHAM DE RAMON PEREZ
+SISTEMAS DE INFORMACION 1758
+PROFESOR AARON VELASCO AGUSTIN
+INGENIERIA EN COMPUTACION
+FES ARAGON UNAM
+
